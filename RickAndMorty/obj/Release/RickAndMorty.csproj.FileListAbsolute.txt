@@ -1,0 +1,9 @@
+C:\Users\torsm\Source\Repos\Rick-And-Morty\RickAndMorty\RickAndMorty\bin\Release\RickAndMorty.exe.config
+C:\Users\torsm\Source\Repos\Rick-And-Morty\RickAndMorty\RickAndMorty\bin\Release\RickAndMorty.exe
+C:\Users\torsm\Source\Repos\Rick-And-Morty\RickAndMorty\RickAndMorty\bin\Release\RickAndMorty.pdb
+C:\Users\torsm\Source\Repos\Rick-And-Morty\RickAndMorty\RickAndMorty\obj\Release\RickAndMorty.Form1.resources
+C:\Users\torsm\Source\Repos\Rick-And-Morty\RickAndMorty\RickAndMorty\obj\Release\RickAndMorty.Properties.Resources.resources
+C:\Users\torsm\Source\Repos\Rick-And-Morty\RickAndMorty\RickAndMorty\obj\Release\RickAndMorty.csproj.GenerateResource.Cache
+C:\Users\torsm\Source\Repos\Rick-And-Morty\RickAndMorty\RickAndMorty\obj\Release\RickAndMorty.csproj.CoreCompileInputs.cache
+C:\Users\torsm\Source\Repos\Rick-And-Morty\RickAndMorty\RickAndMorty\obj\Release\RickAndMorty.exe
+C:\Users\torsm\Source\Repos\Rick-And-Morty\RickAndMorty\RickAndMorty\obj\Release\RickAndMorty.pdb

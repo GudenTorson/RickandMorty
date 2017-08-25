@@ -1,0 +1,10 @@
+C:\Users\torsm\Source\Repos\Rick-And-Morty\RickAndMorty\RickAndMorty\bin\Debug\RickAndMorty.exe.config
+C:\Users\torsm\Source\Repos\Rick-And-Morty\RickAndMorty\RickAndMorty\bin\Debug\RickAndMorty.exe
+C:\Users\torsm\Source\Repos\Rick-And-Morty\RickAndMorty\RickAndMorty\bin\Debug\RickAndMorty.pdb
+C:\Users\torsm\Source\Repos\Rick-And-Morty\RickAndMorty\RickAndMorty\obj\Debug\RickAndMorty.csprojResolveAssemblyReference.cache
+C:\Users\torsm\Source\Repos\Rick-And-Morty\RickAndMorty\RickAndMorty\obj\Debug\RickAndMorty.Form1.resources
+C:\Users\torsm\Source\Repos\Rick-And-Morty\RickAndMorty\RickAndMorty\obj\Debug\RickAndMorty.Properties.Resources.resources
+C:\Users\torsm\Source\Repos\Rick-And-Morty\RickAndMorty\RickAndMorty\obj\Debug\RickAndMorty.csproj.GenerateResource.Cache
+C:\Users\torsm\Source\Repos\Rick-And-Morty\RickAndMorty\RickAndMorty\obj\Debug\RickAndMorty.csproj.CoreCompileInputs.cache
+C:\Users\torsm\Source\Repos\Rick-And-Morty\RickAndMorty\RickAndMorty\obj\Debug\RickAndMorty.exe
+C:\Users\torsm\Source\Repos\Rick-And-Morty\RickAndMorty\RickAndMorty\obj\Debug\RickAndMorty.pdb
